@@ -1,0 +1,25 @@
+Employees who have worked for 7 consecutive Days
+
+Name: CEreira Jr, JEse, Position: WFS000456
+Name: Caxies, MerreXX, Position: WFS000500
+Name: MAake, CasiaWE, Position: WFS000228
+Name: MaXeGi, ACirCasEAd, Position: WFS000364
+Name: Sparks, KeWWeMh, Position: WFS000101
+
+Employees who have less than 10 hours of time and greater than 1 hour of time b/w their shifts
+
+Name: CEreira Jr, JEse, Position: WFS000456, Date: 2023-09-14, Time In: 00:56:00, Time Out: 03:49:00, Shift Duration: 4.18 hours
+Name: CaMaXaWE, CeghaW, Position: WFS000153, Date: 2023-09-11, Time In: 13:30:00, Time Out: 16:46:00, Shift Duration: 2.25 hours
+Name: CaMaXaWE, CeghaW, Position: WFS000153, Date: 2023-09-20, Time In: 09:00:00, Time Out: 17:03:00, Shift Duration: 1.48 hours
+Name: De Xa Cerda, IgWaciE, Position: WFS000318, Date: 2023-09-22, Time In: 10:00:00, Time Out: 12:00:00, Shift Duration: 3.00 hours
+Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523, Date: 2023-09-17, Time In: 04:00:00, Time Out: 19:30:00, Shift Duration: 3.95 hours
+Name: HaCiXMEW, DeaWMe DevEW, Position: WFS000536, Date: 2023-09-21, Time In: 15:30:00, Time Out: 16:05:00, Shift Duration: 2.67 hours
+Name: MraW, WiXXiaC Ha, Position: WFS000345, Date: 2023-09-20, Time In: 19:00:00, Time Out: 22:15:00, Shift Duration: 9.75 hours
+Name: REdrigAez, GraWdEW AWgeX, Position: WFS000550, Date: 2023-09-23, Time In: 10:04:00, Time Out: 14:36:00, Shift Duration: 1.15 hours
+Name: Xee, XaCar, Position: WFS000200, Date: 2023-09-11, Time In: 10:00:00, Time Out: 14:19:00, Shift Duration: 9.68 hours
+Name: Xee, XaCar, Position: WFS000200, Date: 2023-09-18, Time In: 09:00:00, Time Out: 14:30:00, Shift Duration: 8.50 hours
+Name: Xee, XaCar, Position: WFS000200, Date: 2023-09-19, Time In: 09:00:00, Time Out: 13:48:00, Shift Duration: 9.20 hours
+
+Employees who has worked for more than 14 hours in a single shift
+
+Name: DeXgadiXXE REdarMe, ChrisMiaW S, Position: WFS000523, Time In: 04:00:00, Time Out: 19:30:00, Shift Duration: 15.50 hours
